@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - Freelancer v6.0.5 (https://blenderous.github.io/portfolio)
+    * Start Bootstrap - Portfolio v6.0.5 (https://blenderous.github.io/portfolio)
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/portfolio/blob/master/LICENSE)
     */
