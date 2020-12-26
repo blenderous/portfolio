@@ -1,5 +1,5 @@
 {
-    "title": "Freelancer",
+    "title": "Portfolio",
     "name": "portfolio",
     "homepage": "https://blenderous.github.io/portfolio",
     "version": "6.0.5",
@@ -11,9 +11,9 @@
         "build:scss": "node scripts/build-scss.js",
         "clean": "node scripts/clean.js",
         "start": "npm run build && node scripts/start.js",
-        "start:debug": "npm run build && node scripts/start-debug.js"
+        "start:debug": "npm run build && node scripts/start-debug.js",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d dist"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
@@ -26,9 +26,8 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/freelancer",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer/issues",
+        "url": "https://github.com/blenderous/portfolio/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -38,7 +37,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-freelancer.git"
+        "url": "https://github.com/blenderous/portfolio.git"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
