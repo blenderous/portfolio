@@ -10237,6 +10237,9 @@ form .row:first-child .floating-label-form-group {
 .contact-options .phone p, .contact-options .mail p {
   margin-top: 20px;
 }
+.contact-options .phone p a, .contact-options .mail p a {
+  color: #339682;
+}
 
 .footer {
   padding-top: 5rem;
