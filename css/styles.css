@@ -10228,6 +10228,16 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
 }
 
+.contact-options .phone, .contact-options .mail {
+  text-align: center;
+}
+.contact-options .phone .svg-inline--fa, .contact-options .mail .svg-inline--fa {
+  color: #2c3e50;
+}
+.contact-options .phone p, .contact-options .mail p {
+  margin-top: 20px;
+}
+
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
